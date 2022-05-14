@@ -19,6 +19,7 @@ What can you expect?
 - In depth guides on my favorite tools and CLIs
 - Thoughts on developer experience
 - Occasional posts about how-to build good CLIs (focused in both the theory and the code aspects of it)
+- Other technical topics that interest me
 
 ---
 
